@@ -24,7 +24,11 @@
 * Pennsylvania Elementary Education Initial Teaching License (1/2012-Present)
 
 ## Experience
-<p>Princeton in Asia Fellowship- Affiliated Experimental High School of Tunghai University                                                               8/2015- 6/2016</p>
+|  | |
+| --- | --- |
+| Princeton in Asia Fellowship - Affiliated Experimental High School of Tunghai University                                                         |     8/2015- 6/2016|
+| Taichung TW | |
+<p>Princeton in Asia Fellowship - Affiliated Experimental High School of Tunghai University                                                               8/2015- 6/2016</p>
 <p>Taichung, TW</p>
 <p>Princeton in Asia Fellow, English and Model United Nations Teacher, Grades 6-9</p>
 <ul>
